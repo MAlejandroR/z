@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teoria :: Mi sitio ejemplo</title>
-    <link>https://malejadror.github.io/z/teoria/index.html</link>
+    <link>http://localhost:42947/z/teoria/index.html</link>
     <description>Tema de introducción al despliegue</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Nov 2024 17:33:52 +0100</lastBuildDate>
-    <atom:link href="https://malejadror.github.io/z/teoria/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42947/z/teoria/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sintaxis</title>
-      <link>https://malejadror.github.io/z/teoria/sintaxis/index.html</link>
+      <link>http://localhost:42947/z/teoria/sintaxis/index.html</link>
       <pubDate>Wed, 27 Nov 2024 17:33:52 +0100</pubDate>
-      <guid>https://malejadror.github.io/z/teoria/sintaxis/index.html</guid>
+      <guid>http://localhost:42947/z/teoria/sintaxis/index.html</guid>
       <description>#Introducción La sintaxis de php es muy sencilla&#xA;echo &#34;hola&#34;;</description>
     </item>
   </channel>
