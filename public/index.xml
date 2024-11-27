@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi sitio ejemplo</title>
+    <link>http://localhost:39141/index.html</link>
+    <description>This is a new chapter.&#xA;PHP Lenguaje interpretado al lado del servidor</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Nov 2024 17:33:47 +0100</lastBuildDate>
+    <atom:link href="http://localhost:39141/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teoria</title>
+      <link>http://localhost:39141/teoria/index.html</link>
+      <pubDate>Wed, 27 Nov 2024 17:33:47 +0100</pubDate>
+      <guid>http://localhost:39141/teoria/index.html</guid>
+      <description>Tema de introducción al despliegue</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teoria :: Mi sitio ejemplo</title>
+    <link>http://localhost:39141/teoria/index.html</link>
+    <description>Tema de introducción al despliegue</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Nov 2024 17:33:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:39141/teoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sintaxis</title>
+      <link>http://localhost:39141/teoria/sintaxis/index.html</link>
+      <pubDate>Wed, 27 Nov 2024 17:33:52 +0100</pubDate>
+      <guid>http://localhost:39141/teoria/sintaxis/index.html</guid>
+      <description>#Introducción La sintaxis de php es muy sencilla&#xA;echo &#34;hola&#34;;</description>
+    </item>
+  </channel>
+</rss>
